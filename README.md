@@ -15,8 +15,8 @@
 8장	합친 LIS	JLIS ✔️   
 8장	원주율 외우기	PI ✔️   
 8장	Quantization	QUANTIZE ✔️   
-8장	타일링 방법의 수 세기	TILING2   
-8장	삼각형 위의 최대 경로 수 세기	TRIPATHCNT   
+8장	타일링 방법의 수 세기	TILING2 ✔️   
+8장	삼각형 위의 최대 경로 수 세기  TRIPATHCNT ✔️   
 8장	달팽이	SNAIL   
 8장	비대칭 타일링	ASYMTILING   
 8장	폴리오미노	POLY   
