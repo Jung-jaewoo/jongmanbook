@@ -17,9 +17,9 @@
 8장	Quantization	QUANTIZE ✔️   
 8장	타일링 방법의 수 세기	TILING2 ✔️   
 8장	삼각형 위의 최대 경로 수 세기  TRIPATHCNT ✔️   
-8장	달팽이	SNAIL   
-8장	비대칭 타일링	ASYMTILING   
-8장	폴리오미노	POLY   
+8장	달팽이	SNAIL   ✔️   
+8장	비대칭 타일링	ASYMTILING   ✔️   
+8장	폴리오미노	POLY   ✔️   
 8장	두니발 박사의 탈옥	NUMB3RS   
 9장	여행 짐 싸기	PACKING   
 9장	광학 문자 인식	OCR   
