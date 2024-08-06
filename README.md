@@ -20,11 +20,11 @@
 8장	달팽이	SNAIL   ✔️   
 8장	비대칭 타일링	ASYMTILING   ✔️   
 8장	폴리오미노	POLY   ✔️   
-8장	두니발 박사의 탈옥	NUMB3RS   
-9장	여행 짐 싸기	PACKING   
-9장	광학 문자 인식	OCR   
-9장	모스 부호 사전	MORSE   
-9장	k번째 최대 증가 부분 수열	KLIS   
+8장	두니발 박사의 탈옥	NUMB3RS   ✔️   
+9장	여행 짐 싸기	PACKING   ✔️   
+9장	광학 문자 인식	OCR   (추후)   
+9장	모스 부호 사전	MORSE   ✔️   
+9장	k번째 최대 증가 부분 수열	KLIS ✔️  (복습)   
 9장	드래곤 커브	DRAGON   
 9장	웨브바짐	ZIMBABWE   
 9장	실험 데이터 복구하기	RESTORE   
