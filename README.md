@@ -25,8 +25,8 @@
 9장	광학 문자 인식	OCR   (추후)   
 9장	모스 부호 사전	MORSE   ✔️   
 9장	k번째 최대 증가 부분 수열	KLIS ✔️  (복습)   
-9장	드래곤 커브	DRAGON   
-9장	웨브바짐	ZIMBABWE   
+9장	드래곤 커브	DRAGON   ✔️   
+9장	웨브바짐	ZIMBABWE  ✔️ (추후)   
 9장	실험 데이터 복구하기	RESTORE   
 9장	틱택토	TICTACTOE   
 9장	숫자 게임	NUMBERGAME   
