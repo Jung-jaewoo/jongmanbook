@@ -29,8 +29,8 @@
 9장	웨브바짐	ZIMBABWE  ✔️ (복습)   
 9장	실험 데이터 복구하기	RESTORE   ✔️ (복습)   
 9장	틱택토	TICTACTOE   
-9장	숫자 게임	NUMBERGAME   ✔️ (복습) 
-9장	블록 게임	BLOCKGAME   
+9장	숫자 게임	NUMBERGAME   ✔️ (복습)    
+9장	블록 게임	BLOCKGAME   ✔️ (복습)    
 9장	회전초밥	SUSHI   
 9장	지니어스	GENIUS   
 10장	출전 순서 정하기	MATCHORDER    
