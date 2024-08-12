@@ -31,8 +31,8 @@
 9장	틱택토	TICTACTOE   
 9장	숫자 게임	NUMBERGAME   ✔️ (복습)    
 9장	블록 게임	BLOCKGAME   ✔️ (복습)    
-9장	회전초밥	SUSHI   
-9장	지니어스	GENIUS   
+9장	회전초밥	SUSHI   ✔️      
+9장	지니어스	GENIUS   (추후)   
 10장	출전 순서 정하기	MATCHORDER    
 10장	도시락 데우기	LUNCHBOX   
 10장	문자열 합치기	STRJOIN   
