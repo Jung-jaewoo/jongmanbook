@@ -34,10 +34,10 @@
 9장	회전초밥	SUSHI   ✔️      
 9장	지니어스	GENIUS   (추후)   
 10장	출전 순서 정하기	MATCHORDER    ✔️      
-10장	도시락 데우기	LUNCHBOX   
-10장	문자열 합치기	STRJOIN   
-10장	미나스 아노르	MINASTIRITH   
-11장	게임판 덮기 2	BOARDCOVER2   
+10장	도시락 데우기	LUNCHBOX   ✔️   
+10장	문자열 합치기	STRJOIN   ✔️   
+10장	미나스 아노르	MINASTIRITH   (추후,진짜어렵다)   
+11장	게임판 덮기 2	BOARDCOVER2   ✔️ (복습)     
 11장	알러지가 심한 친구들	ALLERGY   
 11장	카쿠로	KAKURO2   
 12장	DARPA Grand Challenge	DARPA   
