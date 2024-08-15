@@ -38,7 +38,7 @@
 10장	문자열 합치기	STRJOIN   ✔️   
 10장	미나스 아노르	MINASTIRITH   (추후,진짜어렵다)   
 11장	게임판 덮기 2	BOARDCOVER2   ✔️ (복습)     
-11장	알러지가 심한 친구들	ALLERGY   
+11장	알러지가 심한 친구들	ALLERGY  ✔️    
 11장	카쿠로	KAKURO2   
 12장	DARPA Grand Challenge	DARPA   
 12장	남극 기지	ARCTIC   
