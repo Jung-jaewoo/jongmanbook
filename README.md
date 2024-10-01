@@ -39,7 +39,7 @@
 10장	미나스 아노르	MINASTIRITH   (추후,진짜어렵다)   
 11장	게임판 덮기 2	BOARDCOVER2   ✔️ (복습)     
 11장	알러지가 심한 친구들	ALLERGY  ✔️    
-11장	카쿠로	KAKURO2   
+11장	카쿠로	KAKURO2 (추후)   
 12장	DARPA Grand Challenge	DARPA   
 12장	남극 기지	ARCTIC   
 12장	캐나다 여행	CANADATRIP   
@@ -53,7 +53,7 @@
 15장	핀볼 시뮬레이션	PINBALL   
 15장	보물섬	TREASURE   
 15장	너드인가, 너드가 아닌가?	NERDS   
-16장	졸업 학기	GRADUATION   
+16장	졸업 학기	GRADUATION   ✔️      
 17장	크리스마스 인형	CHRISTMAS   
 18장	조세푸스 문제	JOSEPHUS   
 19장	짝이 맞지 않는 괄호	BRACKETS2   
